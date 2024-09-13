@@ -15,7 +15,7 @@ Cílem vizualizace je poskytnout přehled o počtu a rozložení cizinců v růz
 - Detailní přehled pro jednotlivé státy
 
 ### Návod k použití
-1. Instalace Power BI: Pokud nemáte Power BI nainstalované, stáhněte si jej z oficiální stránky.
-2. Stažení projektu: Naklonujte tento projekt na svůj počítač nebo si stáhněte .pbix soubor.
-3. Otevření projektu: Otevřete .pbix soubor v Power BI a prozkoumejte jednotlivé vizualizace.
+1. **Instalace Power BI:** Pokud nemáte Power BI nainstalované, stáhněte si jej z oficiální stránky.
+2. **Stažení projektu:** Naklonujte tento projekt na svůj počítač nebo si stáhněte .pbix soubor.
+3. **Otevření projektu:** Otevřete .pbix soubor v Power BI a prozkoumejte jednotlivé vizualizace.
 4. V detailním pohledu lze klikat na hodnoty v grafech, což umožňuje ještě detailnější pohled na data.
